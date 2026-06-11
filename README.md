@@ -1,0 +1,1 @@
+# chatranks-anti-spam-v2
