@@ -6,7 +6,19 @@
 
 Welcome to the **Chat Ranks Anti-Spam** addon! This tool allows you to add highly configurable custom ranks to yourself or other players. You can even set default ranks that new players receive automatically when joining for the first time.
 
+🚀 **[Download the Latest Release Here!](https://github.com/mydemons2354/chatranks-anti-spam-v2/releases)**
+
 > ⚠️ **Important Requirement:** Make sure the **Beta-APIs** experiment is enabled in your world settings before using this addon!
+
+---
+
+## 📦 Downloads & Installation
+
+To get the latest verified version of the addon:
+1. Head over to the **[GitHub Releases Page](https://github.com/mydemons2354/chatranks-anti-spam-v2/releases)**.
+2. Download the direct `.mcaddon` file from the assets list.
+3. Open the file to automatically import it into Minecraft.
+4. Activate both the **Resource Pack** and **Behavior Pack** in your world settings.
 
 ---
 
